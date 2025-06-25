@@ -1,1 +1,1 @@
-# Hands-of-hope
+# Hands-of-hope  is an Android app tackling food wastage and resource shortages. Built with Java, XML, and Back4App, it links donors and recipients via item registration, browsing, logistics, GPS, and security, promoting sustainability and equity.
